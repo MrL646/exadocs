@@ -1,24 +1,5 @@
-### Hi there 👋
+# Exagear 使用文档
 
 > **尚未完工**  
 
-~~This person is too lazy to write documents.~~  
-
-请看左侧目录
-
-<!--
-**Default** document below:  
-
-**MrL646/mrl646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+本页面为Exagear安装/使用文档的目录。
