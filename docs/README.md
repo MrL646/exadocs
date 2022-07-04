@@ -21,5 +21,6 @@
   - [VirGL vtest](inst/vtest.md)
 -->
 
+- [InputBridge](inputbridge.md)
 - [安卓12注意事项](android12.md)
 - [玩东方前的注意事项](/touhou.md)
