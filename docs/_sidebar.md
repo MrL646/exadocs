@@ -3,6 +3,7 @@
 - [首页](/README.md)
 - [简介](/overview.md)
 - [兼容性](/compatibility.md)
+- [兼容性(设备)](compatibility4devices.md)
 - [下载](/download.md)
 - 安装及使用
   - [ED301/302](inst/ed.md)

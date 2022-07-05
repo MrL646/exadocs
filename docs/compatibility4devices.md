@@ -1,19 +1,21 @@
-# 兼容性
+# 兼容性(设备)
 
 > ~~尚未~~**永远不会**完工  
 
-> 本兼容性列表仅为作者个人猜测，详细情况请前往[兼容性(设备)](/compatibility4devices.md)
-
 > 本兼容性列表针对[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)编制，**仅供参考**！  
 
-|                               | 麒麟系 | 骁龙8系 |
-|-------------------------------|--------|--------|
-|ED301/302                      |    P   |    P   |
-|VirGL (fix33及之前)             |Y(仅llvmpipe)| Y |
-|Turnip Zink                    |    N   |   U   |
-|VirGL + Turnip Zink (fix33之后)|    U   |  Y + F |
-|VirGL Overlay                  |    U   |   Y   |
-|4合1版                         | Y/N/N/B| Y/Y/F/B|
+华为 Mate40 Pro运行在HarmonyOS 2.0.0.223下  
+魅族 16th Plus运行在Flyme 8(Android 8.1)及Flyme 9(Android 10)下，效果相同  
+小米11运行在MIUI 12及Android 12(Pixel Experience)下，效果相同
+
+|                               | 华为 Mate10 | 华为 Mate40 Pro | 魅族 16th Plus | 小米11 |
+|-------------------------------|-------------|-----------------|----------------|--------|
+|ED301/302                      |      P      |        P        |        P       |    P   |
+|VirGL (fix33及之前)            |      U      |  Y(仅llvmpipe)  |        Y       |    Y   |
+|Turnip Zink                    |      N      |        N        |        U       |    U   |
+|VirGL + Turnip Zink (fix33之后)|      U      |        U        |      Y + F     |  Y + F |
+|VirGL Overlay                  |      U      |        U        |        Y       |    Y   |
+|4合1版                         |   U/U/U/U   |     Y/N/N/B     |     Y/Y/F/B    | Y/Y/F/B|
 
 4合1版指整合了llvmpipe + VirGL + Turnip Zink + VirGL Overlay的Exagear改版  
 4合1版的标号顺序：llvmpipe VirGL Turnip Zink VirGL Overlay
