@@ -21,7 +21,7 @@
 N(No):无法运行  
 Y(Yes):可以运行大多数作品，除了基于DirectX 11的游戏  
 F(Full):可以运行所有作品，包括基于DirectX 11的游戏  
-P(Partly):部分工作，可以直接运行基于DirectX 8的游戏，对于基于DirectX 9的游戏，需要安装WineD3D补丁来正常运行  
+P(Partly):部分工作，可以直接运行基于DirectX 8的游戏，对于基于DirectX 9的游戏，需要安装[WineD3D](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/%E7%AE%80%E5%8D%95%E8%A1%A5%E4%B8%81/%E8%87%AA%E8%A7%A3%E5%8E%8B%E8%A1%A5%E4%B8%81.exe)来正常运行  
 U(Unknown):未知，有待测试  
 B(Black screen):因为未知原因黑屏
 
