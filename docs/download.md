@@ -3,7 +3,7 @@
 > 尚未完工
 
 ### VirGL
- - fix29 (华为可用)
+ - Exagear SU (华为可用)
    - [Wine6.x](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
  - fix29 v3  
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29v3%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_V3%E7%9B%B4%E8%A3%85%E7%89%88.apk)
@@ -57,13 +57,13 @@
 
 ### VirGL Overlay
  - 0.0.4
-   - VirGL Overlay本体
-   - Wine3.0数据包
-   - Wine4.0数据包
-   - Wine6.0数据包
-   - Exagear ED版
-   - Exagear ES版数据包
-   - Exagear ES版
+   - [VirGL Overlay本体](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/virgl-overlay-rebuild-v.0.0.4_gen_signed.apk)
+   - [Wine3.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/3.0fix1/main.30.com.eltechs.ed.obb)
+   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/4.0fix1/main.30.com.eltechs.ed.obb)
+   - [Wine6.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/6.0fix1/main.30.com.eltechs.ed.obb)
+   - [Exagear ED版](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ExaGear-SU_all_virgl.apk)
+   - [Exagear ES版数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ES%20virgl/main.30.com.eltechs.es.obb)
+   - [Exagear ES版](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ES%20virgl/ExagearMobile_CRV5_3.5_D3D_wine.apk)
  - 0.0.8
    - [VirGL Overlay本体](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/virgl-overlay-rebuild-v.0.0.8-gen_signed.apk)
    - [Wine3.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/wine3.0_GFOXSH_VirGL_v2%20icon%EF%BC%88%E4%BF%AE%E5%A4%8D%E9%BC%A0%E6%A0%87%E6%98%BE%E7%A4%BA%EF%BC%89.zip)
@@ -95,3 +95,5 @@
  - ED302
 
 ### VirGL vtest (root)
+ - [使用说明](https://exadown.vercel.app/Exagear/Virgl%20vtest(root)/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.txt?preview)
+ - [所有文件](https://exadown.vercel.app/Exagear/Virgl%20vtest(root)/)

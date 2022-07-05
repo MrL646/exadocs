@@ -1,6 +1,17 @@
 # Exagear 使用文档
 
+> This document doesn't have super cow powers.
+
 > **尚未完工**  
 
 请看左侧目录。  
-移动端用户请点击左下角显示侧边栏。
+移动端用户请点击左下角显示侧边栏。  
+
+### 欢迎在Github<!--/Gitee-->编辑文档
+
+<!--Github:-->  
+[MrL646/exadocs](https://github.com/MrL646/exadocs)  
+<!--
+Gitee:  
+[multimode_Liu/exadocs](https://gitee.com/mrliu646/exadocs)
+-->
