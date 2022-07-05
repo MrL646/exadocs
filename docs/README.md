@@ -7,11 +7,10 @@
 请看左侧目录。  
 移动端用户请点击左下角显示侧边栏。  
 
-### 欢迎在Github<!--/Gitee-->编辑文档
+### 欢迎在Github/Gitee编辑文档
 
-<!--Github:-->  
+Github:  
 [MrL646/exadocs](https://github.com/MrL646/exadocs)  
-<!--
+
 Gitee:  
 [multimode_Liu/exadocs](https://gitee.com/mrliu646/exadocs)
--->
