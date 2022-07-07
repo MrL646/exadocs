@@ -24,7 +24,7 @@ adb shell "/system/bin/device_config put activity_manager max_phantom_processes 
 adb shell "/system/bin/device_config set_sync_disabled_for_tests persistent; /system/bin/device_config put activity_manager max_phantom_processes 2147483647"
 ```
 其余情况请先安装[Termux](https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/com.termux_118.apk)  
-<!--
+
 - 如果你没有root权限并且没有电脑：
 1. 进入Termux后，执行如下命令安装[TMOE](https://gitee.com/mo2/linux)
 ```
@@ -34,7 +34,7 @@ apt update
 ```
 2. 进入TMOE后，选择"修复 android 12(signal 9)"![](1.png)
 3. 根据提示操作即可(尚未完工)
--->
+
 - 如果你有root权限：  
 请在进入Termux后，之后输入以下命令并回车(每次重启后需重新执行)，并给予Termux root权限，然后你就可以退出Termux了。  
 (一般情况下，**不要**随便让一个未知的软件获得root权限！但Termux是可以信任的，它是开源的，[Termux · GitHub](https://github.com/termux))
