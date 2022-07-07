@@ -1,4 +1,4 @@
-# 下载
+# 所有下载
 
 > 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请自行到[https://exadown.vercel.app/](https://exadown.vercel.app/)查看
 
