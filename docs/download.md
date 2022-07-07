@@ -6,6 +6,7 @@
 
 ### Exagear SU (华为可用)
    - [Wine6.x](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
+
 ### VirGL + Turnip Zink
  - fix35  
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine3.x_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
