@@ -9,7 +9,7 @@
   - [ED301/302](inst/ed.md)
   - [VirGL版(fix33及以前)](inst/virgl.md)
   - [Turnip Zink](inst/turnip_zink.md)
-  - [Turnip Zink + VirGL(fix33以后)](inst/turnip_zink+virgl.md)
+  - [Turnip Zink + VirGL(fix33以后)](inst/turnip_zink_virgl.md)
   - [Exagear 4合1版](inst/4in1.md)
   - [VirGL Overlay](inst/virgl_overlay.md)
 
