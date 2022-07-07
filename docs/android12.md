@@ -37,7 +37,7 @@ apt update
 
 - 如果你有root权限：  
 请在进入Termux后，之后输入以下命令并回车(每次重启后需重新执行)，并给予Termux root权限，然后你就可以退出Termux了。  
-(一般情况下，**不要**随便让一个未知的软件获得root权限！但Termux是可以信任的，它是开源的，[Termux · GitHub](https://github.com/termux))
+(一般情况下，**不要**随便让一个未知的软件获得root权限！但Termux是可以信任的，并且它是开源的，[Termux · GitHub](https://github.com/termux))
 ```
 su -c "/system/bin/device_config put activity_manager max_phantom_processes 2147483647"
 ```
