@@ -29,8 +29,8 @@
  - fix35
    - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/ExaGear%2BSU_mcat_Ludashi_4in1_EN_kill.apk)
    - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%203.10_4in1_fix35_AllMod.zip)
-   - [Wine4.0](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%204.0_4in1_fix35_AllMod.zip)
-   - [Wine6.17](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%206.17_4in1_fix35_AllMod.zip)
+   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%204.0_4in1_fix35_AllMod.zip)
+   - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%206.17_4in1_fix35_AllMod.zip)
 
 ### InputBridge
  - 0.0.5
