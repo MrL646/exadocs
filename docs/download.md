@@ -1,5 +1,7 @@
 # 下载
 
+> 如果链接失效，请[联系我](/contact_me.md)
+
 > 此页面仅提供Exagear最新版，旧版及弃用的版本请前往[这里](/download_all.md)
 
 > 这里仅提供Exagear及InputBridge的下载链接，更多~~没用的~~文件请自行到[https://exadown.vercel.app/](https://exadown.vercel.app/)查看

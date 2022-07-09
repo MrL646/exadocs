@@ -1,5 +1,7 @@
 # 所有下载
 
+> 如果链接失效，请[联系我](/contact_me.md)
+
 > 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请自行到[https://exadown.vercel.app/](https://exadown.vercel.app/)查看
 
 > 备用链接：[百度网盘](/baidu_download.html) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
