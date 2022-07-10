@@ -1,6 +1,6 @@
 # ED301/302 安装
 
-> 尚未完工
+> ![](../ConstructionClock.png)尚未完工
 
 ## ED301
 

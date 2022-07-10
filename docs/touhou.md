@@ -1,6 +1,6 @@
 # 玩东方前的注意事项
 
-> 尚未完工
+> ![](ConstructionClock.png)尚未完工
 
 > 如果问题仍未解决，请前往[Exagear吧](https://tieba.baidu.com/f?ie=utf-8&kw=exagear)寻求帮助，那里的大佬比我懂得更多
 

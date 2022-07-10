@@ -1,6 +1,6 @@
 # Exagear 简介
 
-> 尚未完工  
+> ![](ConstructionClock.png)尚未完工  
 
 > **该文档对使用Exagear没有什么帮助，可以不读**  
 
