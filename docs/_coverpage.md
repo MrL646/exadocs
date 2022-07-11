@@ -14,4 +14,4 @@
 [GitHub](https://github.com/MrL646/exadocs/)
 [Gitee](https://gitee.com/mrliu646/exadocs/)
 [Exagear 下载](download.md)
-[开始](#README)
+[开始](README.md)
