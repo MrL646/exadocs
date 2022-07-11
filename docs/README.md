@@ -13,4 +13,6 @@ Github:
 [MrL646/exadocs](https://github.com/MrL646/exadocs)  
 
 Gitee:  
-[multimode_Liu/exadocs](https://gitee.com/mrliu646/exadocs)
+[multimode_Liu/exadocs](https://gitee.com/mrliu646/exadocs)  
+
+[联系方式](contact_me.md ':include')
