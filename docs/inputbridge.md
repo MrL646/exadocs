@@ -1,3 +1,3 @@
 # InputBridge
 
-> ![](ConstructionClock.png)尚未完工
+!> ![](ConstructionClock.png)尚未完工

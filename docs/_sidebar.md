@@ -8,12 +8,18 @@
 - [所有下载](download_all.md)
 - [工具](tools.md)
 - 安装及使用
+
+  - [直装版安装](inst/1.md)
+  - [非直装版安装](inst/2.md)
+  - [VirGL Overlay](inst/virgl_overlay.md)
+
+<!-- Old, messy documents.
   - [ED301/302](inst/ed.md)
   - [Exagear VirGL版](inst/virgl.md)
   - [Turnip Zink](inst/turnip_zink.md)
   - [Turnip Zink + VirGL整合版](inst/turnip_zink_virgl.md)
   - [Exagear 4合1版](inst/4in1.md)
-  - [VirGL Overlay](inst/virgl_overlay.md)
+-->
 
 <!-- I won't write this document, because it is too difficult to use. :P
   - [VirGL vtest](inst/vtest.md)

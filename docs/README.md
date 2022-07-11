@@ -1,10 +1,10 @@
 # Exagear 使用文档
 
-> 这个文档**不是**官方文档！
+!> 这个文档**不是**官方文档！
+
+!> **![](ConstructionClock.png)尚未完工**  
 
 > This document doesn't have super cow powers.
-
-> **![](ConstructionClock.png)尚未完工**  
 
 请看左侧目录。  
 移动端用户请点击左下角显示侧边栏。  

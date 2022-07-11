@@ -1,6 +1,6 @@
 # 安卓12注意事项
 
-> ![](ConstructionClock.png)尚未完工
+!> ![](ConstructionClock.png)尚未完工
 
 见[Termux issues #2366](https://github.com/termux/termux-app/issues/2366)
 
@@ -33,7 +33,7 @@ apt install ./tinor.deb
 apt update
 ```
 2. 进入TMOE后，选择"修复 android 12(signal 9)"![](1.png)
-3. 根据提示操作即可(![](ConstructionClock.png)尚未完工)
+3. 根据提示操作即可(尚未完工)
 
 - 如果你有root权限：  
 请在进入Termux后，之后输入以下命令并回车(每次重启后需重新执行)，并给予Termux root权限，然后你就可以退出Termux了。  
