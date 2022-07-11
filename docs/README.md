@@ -15,4 +15,4 @@ Github:
 Gitee:  
 [multimode_Liu/exadocs](https://gitee.com/mrliu646/exadocs)  
 
-[联系方式](contact_me.md ':include')
+[联系方式](/contact_me.md ':include')
