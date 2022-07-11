@@ -1,10 +1,12 @@
 # 下载
 
-> 此页面仅提供Exagear**最新版**及InputBridge的下载链接，更多版本请前往[这里](/download_all.md)，如果链接失效，请[联系我](/contact_me.md)
+> 更多版本请前往[这里](/download_all.md)
+
+> 如果链接失效，请[联系我](/contact_me.md)
 
 > 备用链接：[百度网盘](/baidu_download.html) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 
-### Exagear SU (华为可用)
+### Exagear VirGL fix29 (旧)
    - [Wine6.x](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
 
 ### VirGL + Turnip Zink
@@ -25,7 +27,7 @@
    - [Mesa 18.3.0](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/VirGL_Mesa_18.3.0_v3.exe)
    - [安装教程](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/exagear%20overlay0.0.8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.txt?preview)
 
-### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink VirGL Overlay 0.0.7)
+### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink + VirGL Overlay)
  - fix35
    - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/ExaGear%2BSU_mcat_Ludashi_4in1_EN_kill.apk)
    - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%203.10_4in1_fix35_AllMod.zip)

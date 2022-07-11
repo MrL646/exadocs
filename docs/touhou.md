@@ -2,9 +2,9 @@
 
 !> ![](ConstructionClock.png)尚未完工
 
-> 如果问题仍未解决，请前往[Exagear吧](https://tieba.baidu.com/f?ie=utf-8&kw=exagear)寻求帮助，那里的大佬比我懂得更多
+!> 如果问题仍未解决，请前往[Exagear吧](https://tieba.baidu.com/f?ie=utf-8&kw=exagear)寻求帮助，那里的大佬比我懂得更多
 
-> 如果你在玩[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)时遇到无法运行的问题，请参考以下步骤
+如果你在玩[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)时遇到无法运行的问题，请参考以下步骤
 
 1. 确保你的游戏是原版副本或从[东方狗下载站 - 莉莉云](https://cloud.lilywhite.cc/s/4ZUW?path=%2F)获得的
 2. 确认你的**设备、Exagear及游戏**在[兼容性列表](compatibility.md)的支持范围内  

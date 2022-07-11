@@ -1,65 +1,117 @@
 # 所有下载
 
 
-> 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请前往[exadown](https://exadown.vercel.app/)，如果链接失效，请[联系我](/contact_me.md)
+> 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请前往[exadown](https://exadown.vercel.app/)
+
+> 如果链接失效，请[联系我](/contact_me.md)
 
 > 备用链接：[百度网盘](/baidu_download.html) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 
 ### VirGL
- - Exagear SU (华为可用)
+
+<details>
+<summary>旧fix29</summary>
+
    - [Wine6.x](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix29 v3  
+
+</details>
+<details>
+<summary>fix29 v3</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29v3%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_V3%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29v3%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_V3%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29v3%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_V3%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix29 v4  
+
+</details>
+<details>
+<summary>fix29 v4</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29%20v4%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_V4%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29%20v4%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_V4%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix29%20v4%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_V4%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix30  
+
+</details>
+<details>
+<summary>fix30</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix30%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix30%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix30%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix31  
+
+</details>
+<details>
+<summary>fix31</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix31%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix31%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x_GST](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix31%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_GST%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix32  
+
+</details>
+<details>
+<summary>fix32</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix32%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix32%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x_GST](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix32%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_GST%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix33  
+
+</details>
+<details>
+<summary>fix33</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix33%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_fix33%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix33%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_fix33%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.17_GST](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix33%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.17_GST_fix33%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x_GST](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix33%E7%9B%B4%E8%A3%85%E7%89%88%20by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_GST_fix33%E7%9B%B4%E8%A3%85%E7%89%88.apk)
 
+</details>
+
 ### Turnip Zink
- - fix31
+
+<details>
+<summary>fix31</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix31/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix31/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x_GST](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix31/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_GST%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix32
+
+</details>
+<details>
+<summary>fix32</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix32/ExaGear%20SU_3.0.2G_MCAT_Wine3.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix32/ExaGear%20SU_3.0.2G_MCAT_Wine4.x_%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x_GST](https://exadown.vercel.app/Exagear/%E5%9B%BD%E5%A4%96Turnip%2BZink/fix32/ExaGear%20SU_3.0.2G_MCAT_Wine6.x_GST%E7%9B%B4%E8%A3%85%E7%89%88.apk)
 
+</details>
+
 ### VirGL + Turnip Zink
- - fix34  
+
+<details>
+<summary>fix34</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix34%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine3.x_fix34%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix34%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine4.x_fix34%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.17](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix34%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine6.17_GST_fix34%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix34%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine6.x_GST_fix34%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine7.1](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix34%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine7.x_GST_fix34%E7%9B%B4%E8%A3%85%E7%89%88.apk)
- - fix35  
+
+</details>
+<details>
+<summary>fix35</summary>
+
    - [Wine3.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine3.x_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine4.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine4.x_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.17](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine6.17_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine6.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine6.x_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
    - [Wine7.x](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/fix35%20turnip%E6%95%B4%E5%90%88%E7%9B%B4%E8%A3%85%E7%89%88by%20Jxy3576/ExaGear%20SU_3.0.2G_MCAT_Turnip%2BZink%2BVirgl_Wine7.1_fix35%E7%9B%B4%E8%A3%85%E7%89%88.apk)
 
+</details>
+
 ### VirGL Overlay
- - 0.0.4
+
+<details>
+<summary>0.0.4</summary>
+
    - [VirGL Overlay本体](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/virgl-overlay-rebuild-v.0.0.4_gen_signed.apk)
    - [Wine3.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/3.0fix1/main.30.com.eltechs.ed.obb)
    - [Wine4.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/4.0fix1/main.30.com.eltechs.ed.obb)
@@ -67,7 +119,11 @@
    - [Exagear ED版](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ExaGear-SU_all_virgl.apk)
    - [Exagear ES版数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ES%20virgl/main.30.com.eltechs.es.obb)
    - [Exagear ES版](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.4/ES%20virgl/ExagearMobile_CRV5_3.5_D3D_wine.apk)
- - 0.0.8
+
+</details>
+<details>
+<summary>0.0.8</summary>
+
    - [VirGL Overlay本体](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/virgl-overlay-rebuild-v.0.0.8-gen_signed.apk)
    - [Wine3.0数据包](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/wine3.0_GFOXSH_VirGL_v2%20icon%EF%BC%88%E4%BF%AE%E5%A4%8D%E9%BC%A0%E6%A0%87%E6%98%BE%E7%A4%BA%EF%BC%89.zip)
    - [Exagear ED版](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/ExaGear-SU_all_virgl.apk)
@@ -76,12 +132,19 @@
    - [Mesa 18.3.0](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/VirGL_Mesa_18.3.0_v3.exe)
    - [安装教程](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/exagear%20overlay0.0.8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.txt?preview)
 
-### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink VirGL Overlay 0.0.7)
- - fix35
+</details>
+
+### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink + VirGL Overlay)
+
+<details>
+<summary>fix35</summary>
+
    - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/ExaGear%2BSU_mcat_Ludashi_4in1_EN_kill.apk)
    - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%203.10_4in1_fix35_AllMod.zip)
    - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%204.0_4in1_fix35_AllMod.zip)
    - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%206.17_4in1_fix35_AllMod.zip)
+
+</details>
 
 ### InputBridge
  - 0.0.5

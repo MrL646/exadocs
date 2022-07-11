@@ -1,6 +1,4 @@
-# Exagear 使用文档
-
-!> 这个文档**不是**官方文档！
+# Exagear 非官方使用文档
 
 !> **![](ConstructionClock.png)尚未完工**  
 

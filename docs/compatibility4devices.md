@@ -1,8 +1,8 @@
 # 兼容性(设备)
 
-> ~~尚未~~**永远不会**完工  
+> ~~!未~~**永远不会**完工  
 
-> 本兼容性列表针对[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)编制，**仅供参考**！  
+!> 本兼容性列表针对[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)编制，**仅供参考**！  
 
 华为 Mate40 Pro运行在HarmonyOS 2.0.0.223下  
 魅族 16th Plus运行在Flyme 8(Android 8.1)及Flyme 9(Android 10)下，效果相同  
