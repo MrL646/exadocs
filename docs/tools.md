@@ -8,4 +8,4 @@
 
 - 解压缩软件
   - [Zarchiver Pro](https://takuya.lanzouw.com/ikE5Tvycsmh) (这个是真的！)  
-  [备用链接](https://frisol.lanzoui.com/iyITBh0ukwj)
+  - [备用链接](https://frisol.lanzoui.com/iyITBh0ukwj)
