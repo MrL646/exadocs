@@ -56,5 +56,41 @@
 
 </details>
 -->
-6. (仅限VirGL版、Turnip Zink版或4合1版)  
-   根据你的设备的配置，调整"图形渲染器"选项(对于Exagear 4合1版，这个选项叫"GPU")
+
+!> 请按照第6步操作，如果跳过此步骤，你将无法正常启动游戏(专指**东方Project**)！
+
+6. 调整部分选项(**仅针对VirGL版、Turnip Zink版或4合1版**)  
+   如果是**高通骁龙**处理器的设备：
+
+<details>
+<summary>点击展开</summary>
+
+- 非4合1版：调整"图形渲染器"选项至"VirtIO-GPU"
+- 4合1版fix35：调整"GPU"选项至以"VirtIO"开头的那个
+- 4合1版fix38及以后：调整"GPU"选项至"Hardware"
+
+</details>
+
+   如果是**华为/荣耀**设备：
+
+<details>
+<summary>点击展开</summary>
+
+- 非4合1版：调整"图形渲染器"选项至"LLVM 10"
+- 4合1版fix35：调整"GPU"选项至以"Llvmpipe"开头的那个
+- 4合1版fix38及以后：调整"GPU"选项至"Software"
+
+</details>
+
+7. 点击左上角的箭头返回，点击该环境最右端的三个点，并点击"启动"或"Start"
+
+?> 第一次启动环境时，一般会弹出如下窗口，此时点击"取消"即可
+
+<details>
+<summary>点击展开图片</summary>
+
+![](screenshots/Screenshot_20220716-155425_ExaGear%20SU.png)
+
+</details>
+
+8. 在文件管理器中打开D盘(对应设备上的/storage/emulated/0/Exagear)，打开游戏即可
