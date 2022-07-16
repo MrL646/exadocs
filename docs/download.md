@@ -4,7 +4,7 @@
 
 > 如果链接失效，请[联系我](/contact_me.md)
 
-> 备用链接：[百度网盘](/baidu_download.html) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
+> 备用链接：[百度网盘](/baidu_download.md) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 
 ### Exagear VirGL fix29 (旧)
    - [Wine6.x](https://exadown.vercel.app/Exagear/%E5%B7%B2%E5%BC%83%E7%94%A8%E7%9A%84Exagear/ExaGear%20SU_3.0.2G_MCAT_Wine6.x%E7%9B%B4%E8%A3%85%E7%89%88.apk)

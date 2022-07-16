@@ -5,7 +5,7 @@
 
 > 如果链接失效，请[联系我](/contact_me.md)
 
-> 备用链接：[百度网盘](/baidu_download.html) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
+> 备用链接：[百度网盘](/baidu_download.md) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 
 ### VirGL
 
