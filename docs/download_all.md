@@ -107,6 +107,39 @@
 
 </details>
 
+### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink + VirGL Overlay)
+
+<details>
+<summary>fix35</summary>
+
+   - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/ExaGear%2BSU_mcat_Ludashi_4in1_EN_kill.apk)
+   - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%203.10_4in1_fix35_AllMod.zip)
+   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%204.0_4in1_fix35_AllMod.zip)
+   - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%206.17_4in1_fix35_AllMod.zip)
+
+</details>
+<details>
+<summary>fix38</summary>
+
+   - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/ExaGear%20SU_Turnip%2BZink%2BVirgl_Overlay_fix38_EN_AllMod.apk)
+   - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/wine%203.10fix38_AllMod.zip)
+   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/wine%204.0fix38_AllMod.zip)
+   - [Wine6.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/wine%206.0fix38_AllMod.zip)
+   - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/wine%206.17fix38_AllMod.zip)
+   - [Wine7.1数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix38/wine%207.1fix38_AllMod.zip)
+
+</details>
+<details>
+<summary>fix39</summary>
+
+   - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix39/ExaGear%2BSU_Turnip%2BZink%2BVirgl_Overlay_fix39_EN_AllMod.apk)
+   - [Wine3.0.5数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix39/wine%203.0.5_fix39_AllMod.zip)
+   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix39/wine%204.0_fix39_AllMod.zip)
+   - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix39/wine%206.17_fix39_AllMod.zip)
+   - [Wine7.1数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/Exagear%204in1%20fix39/wine%207.1_fix39_AllMod.zip)
+
+</details>
+
 ### VirGL Overlay
 
 <details>
@@ -131,18 +164,6 @@
    - [WineD3D](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/WineD3D2.5(Windows-system32).zip)
    - [Mesa 18.3.0](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/VirGL_Mesa_18.3.0_v3.exe)
    - [安装教程](https://exadown.vercel.app/Exagear/virgl-overlay(%E5%85%8Droot)/virgl%20overlay%200.0.8/exagear%20overlay0.0.8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.txt?preview)
-
-</details>
-
-### Exagear 4合1版 (llvmpipe + VirGL + Turnip Zink + VirGL Overlay)
-
-<details>
-<summary>fix35</summary>
-
-   - [本体apk](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/ExaGear%2BSU_mcat_Ludashi_4in1_EN_kill.apk)
-   - [Wine3.10数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%203.10_4in1_fix35_AllMod.zip)
-   - [Wine4.0数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%204.0_4in1_fix35_AllMod.zip)
-   - [Wine6.17数据包](https://exadown.vercel.app/Exagear/Exagear%20VirtIO%E7%9B%B4%E8%A3%85%E7%89%88/%E6%AF%9B%E6%94%B9exagear%204in1_fix35/MG_wine%206.17_4in1_fix35_AllMod.zip)
 
 </details>
 
