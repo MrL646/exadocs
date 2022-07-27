@@ -6,14 +6,23 @@
 - [简介](/overview.md)
 -->
 
-- [兼容性](/compatibility.md)
-- [兼容性(设备)](compatibility4devices.md)
-- [下载](/download.md)
-- [所有下载](download_all.md)
-- [工具](tools.md)
-- Exagear安装  
-  - [普通安装](/inst.md)
+- Exagear安装及配置
+  - [安装](/inst.md)
+  - [配置InputBridge](/inputbridge.md)
+  - [运行《东方凭依华》(可选)](/th155.md)
+  - [其他配置(可选)](/configure.md)
   - [VirGL Overlay安装](inst/virgl_overlay.md)
+
+- 注意事项
+  - [安卓12注意事项](/android12.md)
+  - [玩东方前的注意事项](/touhou.md)
+
+- 附加页面
+  - [兼容性](/compatibility.md)
+  - [兼容性(设备)](/compatibility4devices.md)
+  - [下载](/download.md)
+  - [所有下载](/download_all.md)
+  - [工具](/tools.md)
 
 <!-- Old, messy documents.
   - [直装版安装](inst/1.md)
@@ -28,7 +37,3 @@
 <!-- I won't write this document, because it is too difficult to use. :P
   - [VirGL vtest](inst/vtest.md)
 -->
-
-- [InputBridge](inputbridge.md)
-- [安卓12注意事项](android12.md)
-- [玩东方前的注意事项](/touhou.md)
