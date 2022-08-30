@@ -1,7 +1,7 @@
 # 所有下载
 
 
-> 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请前往[exadown](https://0.mrl646.repl.co/d/)
+> 这里仅提供Exagear及游戏键盘/InputBridge的下载链接，更多~~没用的~~文件请前往[exadown](https://0.mrl646.repl.co/)
 
 > 如果链接失效，请[联系我](/contact_me.md)
 
