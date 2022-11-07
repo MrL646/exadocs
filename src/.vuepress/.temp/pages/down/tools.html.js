@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-fc0a515c\",\"path\":\"/down/tools.html\",\"title\":\"工具\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"工具\\r\\\" 以下软件是我安装Exagear时用到的文件管理器及解压缩软件，可以按需下载\\\"\\r文件管理器; \\rMT管理器; \\rMaterial Files(质感文件); \\r解压缩软件; \\rZarchiver Pro (这个是真的！) ; \\r备用链接;\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://exadocs.netlify.app/down/tools.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Exadocs\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"工具\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.26,\"words\":77},\"filePathRelative\":\"down/tools.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

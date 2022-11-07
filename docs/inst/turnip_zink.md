@@ -1,6 +1,0 @@
-# Turnip Zink 版安装
-
-!> ![](../ConstructionClock.png)尚未完工
-
-1. 从[下载](/download_all.md)页面下载Exagear，并安装
-2. 运行Exagear，并给予存储权限
