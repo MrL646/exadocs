@@ -10,6 +10,8 @@ export default hopeTheme({
     url: "https://mrl646.netlify.app",
   },
 
+  license: "MIT Licensed",
+
   iconAssets: "iconfont",
 
   logo: "/favicon.ico",
