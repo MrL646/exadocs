@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/favicon.ico",
 
-  repo: "MrL646/exadocs-v2",
+  repo: "MrL646/exadocs",
 
   docsDir: "demo/theme-docs/src",
 
