@@ -26,6 +26,6 @@ features:
   - title: 免费不限速
     details: 所有资源下载不限速且免费，隔壁的东方狗下载站也是（特指某些倒卖 Exagear 改版的人）
 
-copyright: true
-footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" />
+copyright: false
+footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>MIT Licensed | Copyright © 2022 MrLiu646</div>
 ---
