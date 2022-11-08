@@ -1,6 +1,0 @@
-<template><div><p>基于DirectX 8的游戏：TH06-09及TH07.5、TH09.5，红魔乡、妖妖梦、永夜抄、花映塚、萃梦想、文花帖<br>
-基于DirectX 9的游戏：TH10，东方风神录及之后的所有正作；TH12.5、TH12.8、TH14.5、TH16.5，除了东方文花帖之外的所有<a href="https://thwiki.cc/-/9d#%E5%B0%8F%E6%95%B0%E7%82%B9%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F" target="_blank" rel="noopener noreferrer">小数点射击游戏<ExternalLinkIcon/></a><br>
-基于DirectX 11的游戏：TH15.5，东方凭依华及之后的所有格斗作</p>
-</div></template>
-
-

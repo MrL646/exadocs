@@ -1,6 +1,9 @@
 # 备用链接(百度网盘)
 
-原UP主：    
+::: tip
+本文档搬运自[BV1144y1j7uY](https://www.bilibili.com/video/BV1144y1j7uY/)
+:::
+
 如果链接失效请在视频下方留言给我，我会尽快更新：    
 https://www.bilibili.com/video/BV1144y1j7uY/    
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

@@ -17,14 +17,25 @@ actions:
     link: /down/
 
 features:
+  - title: 文档仍在完善中...
+    icon: community
+    details: 欢迎提出 Issues 或 Pull Requests
+
   - title: 简单易懂
+    icon: light
     details: 使文档尽可能简洁，让初学者也能快速上手
 
   - title: 版本多
-    details: 尽可能提供足够多的 Exagear 改版，并提供有限支持
+    icon: stack
+    details: 尽可能提供足够多的 Exagear 改版
 
-  - title: 免费不限速
-    details: 所有资源下载不限速且免费，隔壁的东方狗下载站也是（特指某些倒卖 Exagear 改版的人）
+  - title: 下载不限速
+    icon: speed
+    details: 所有资源下载不限速
+
+  - title: PWA 支持
+    icon: mobile
+    details: 得益于 vuepress-theme-hope 的支持，本文档没网也能打开
 
 copyright: false
 footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>MIT Licensed | Copyright © 2022 MrLiu646</div>

@@ -45,21 +45,22 @@ export const zhNavbar = navbar([
  },
  {
    text: "兼容性",
-   prefix: "/",
+   icon: "tool",
+   prefix: "/compatibility",
    children: [
-    { text: "概览", link: "compatibility/" },
-    { text: "设备兼容性", link: "compatibility/for-devices" }
+    { text: "概览", link: "/" },
+    { text: "设备兼容性", link: "/for-devices" }
    ]
   },
  {
   text: "Exagear 下载",
-  prefix: "/",
+  prefix: "/down",
   icon: "cache",
   children: [
-    { text: "建议的版本", link: "down/" },
-    { text: "全部版本", link: "down/all" },
-    { text: "解压缩工具", link: "down/tools" },
-    { text: "百度云备用下载", link: "down/baidu"}
+    { text: "建议的版本", link: "/" },
+    { text: "全部版本", link: "/all" },
+    { text: "解压缩工具", link: "/tools" },
+    { text: "百度云备用下载", link: "/baidu"}
   ] 
  },
  { text: "游戏下载", link:"https://down.thdog.moe" }
