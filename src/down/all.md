@@ -1,5 +1,9 @@
 # 所有下载
 
+::: danger 链接已失效！
+请临时从[Exadown](https://exadown.netlify.app)下载，并等待链接更新
+:::
+
 ::: tip
 备用链接：[百度网盘](./baidu.md) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 :::

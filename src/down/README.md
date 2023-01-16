@@ -1,5 +1,9 @@
 # 下载
 
+::: danger 链接已失效！
+请临时从[Exadown](https://exadown.netlify.app)下载，并等待链接更新
+:::
+
 ::: tip
  更多版本请前往[这里](./all.md)
 :::
