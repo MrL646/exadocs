@@ -33,10 +33,6 @@ features:
     icon: speed
     details: 所有资源下载不限速
 
-  - title: PWA 支持
-    icon: mobile
-    details: 得益于 vuepress-theme-hope 的支持，本文档没网也能打开
-
 copyright: false
-footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>MIT Licensed | Copyright © 2022 MrLiu646</div>
+# footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>MIT Licensed | Copyright © 2022 MrLiu646</div>
 ---
