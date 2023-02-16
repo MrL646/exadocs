@@ -3,11 +3,11 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://exadocs.netlify.app",
+  hostname: "https://docs.mrl646.top",
 
   author: {
     name: "MrLiu646",
-    url: "https://mrl646.netlify.app",
+    url: "https://mrl646.top",
   },
 
   copyright: "MIT Licensed",
@@ -74,7 +74,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://comment646.deta.dev/",
+      serverURL: "https://wl.mrl646.top/",
     },
 
     // Disable features you don’t want here
