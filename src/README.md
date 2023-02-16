@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 首页
-heroImage: /favicon.ico
+# heroImage: /favicon.ico
 heroText: Exadocs
 tagline: 一个简单的 Exagear 安装文档
 actions:
