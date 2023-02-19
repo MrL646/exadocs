@@ -19,7 +19,7 @@ actions:
 features:
   - title: 文档仍在完善中...
     icon: community
-    details: 欢迎提出 Issues 或 Pull Requests
+    details: 欢迎提交 Issues 或 Pull Requests
 
   - title: 简单易懂
     icon: light
