@@ -1,3 +1,4 @@
 node_modules
 src\.vuepress\.cache\deps_temp
 src\.vuepress\.temp
+src\.vuepress\dist
