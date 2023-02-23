@@ -5,7 +5,7 @@
 
 ## Exagear 安装
 
-前往[下载](/down)页面下载Exagear并安装，之后运行Exagear，给予存储权限  
+前往[下载](/down/)页面下载Exagear并安装，之后运行Exagear，给予存储权限  
 非直装版请先解压数据包，再运行Exagear
 
 - 对于ED301，请将`main.31.com.antutu.ABenchMark.obb`和`bass.so`  
