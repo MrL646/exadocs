@@ -6,6 +6,7 @@ export default defineConfig({
   description: 'Just playing around.',
   lastUpdated: true,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     siteTitle: 'Exadocs',
     nav: [
