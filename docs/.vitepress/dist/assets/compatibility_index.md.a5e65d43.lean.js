@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as e,a}from"./app.f77bbc91.js";const b=JSON.parse('{"title":"兼容性","description":"","frontmatter":{},"headers":[],"relativePath":"compatibility/index.md","lastUpdated":null}'),d={name:"compatibility/index.md"},i=a("",7),n=[i];function c(l,o,p,s,h,_){return e(),r("div",null,n)}const f=t(d,[["render",c]]);export{b as __pageData,f as default};

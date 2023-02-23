@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.f77bbc91.js";const u=JSON.parse('{"title":"注意事项","description":"","frontmatter":{},"headers":[],"relativePath":"guide/touhou.md","lastUpdated":null}'),i={name:"guide/touhou.md"},o=r("",5),l=[o];function c(s,n,_,h,d,p){return t(),a("div",null,l)}const m=e(i,[["render",c]]);export{u as __pageData,m as default};
