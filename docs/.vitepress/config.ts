@@ -9,6 +9,10 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     siteTitle: 'Exadocs',
+    footer: {
+      message: '',
+      copyright: '<!-- <div>MIT Licensed | Copyright © --> 2023 MrLiu646</div>'
+    },
     nav: [
        {
         text: "指南",
