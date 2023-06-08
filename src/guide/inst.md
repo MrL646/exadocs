@@ -1,6 +1,7 @@
 # 安装指南
 
-::: warning 尚未完工
+::: danger DEPRECATED
+本文档已停止更新
 :::
 
 ## Exagear 安装
@@ -41,3 +42,7 @@
 8. 在文件管理器中打开D盘(对应设备上的`/storage/emulated/0/Exagear`，部分版本是`/storage/emulated/0/Download`)，打开游戏即可
 
 ## InputBridge 安装
+
+https://www.bilibili.com/video/BV143411G7wG
+
+实在不行的话自行上B站搜`Inputbridge教程`，且一定要确保所使用的版本是**0.0.5**
