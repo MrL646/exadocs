@@ -1,6 +1,7 @@
 # 注意事项
 
-::: warning 尚未完工
+::: danger DEPRECATED
+本文档已停止更新
 :::
 
 ::: tip

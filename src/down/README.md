@@ -1,7 +1,11 @@
 # 下载
 
+::: danger DEPRECATED
+Exadown已停止更新
+:::
+
 ::: tip
- 更多版本请前往[这里](./all.md)
+更多版本请前往[这里](./all.md)
 :::
 
 ::: tip

@@ -1,7 +1,10 @@
 # 兼容性
 
-::: warning
-~~尚未~~**永远不会**完工  
+::: danger DEPRECATED
+本文档已停止更新
+:::
+
+::: warning  
 列表仅为作者个人推测  
 详细情况请前往[兼容性(设备)](./for-devices.md)
 :::

@@ -1,5 +1,9 @@
 # 所有下载
 
+::: danger DEPRECATED
+Exadown已停止更新
+:::
+
 ::: tip
 备用链接：[百度网盘](./baidu.md) [城通网盘](https://url02.ctfile.com/d/4221102-45803505-36356a)(密码：7654)
 :::

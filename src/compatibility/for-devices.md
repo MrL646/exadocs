@@ -1,7 +1,7 @@
 # 兼容性(设备)
 
-::: warning
-~~尚未~~**永远不会**完工  
+::: danger DEPRECATED
+本文档已停止更新
 :::
 
 针对[东方Project](https://thwiki.cc/-/3)系列[游戏](https://thwiki.cc/-/9d)编制  

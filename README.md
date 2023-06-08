@@ -1,2 +1,2 @@
 # DEPRECATED
-I need a rest.
+Rest in peace.
